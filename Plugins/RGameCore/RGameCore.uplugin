@@ -6,10 +6,10 @@
 	"Description": " Core Game Features Plugin",
 	"Category": "Other",
 	"CreatedBy": "RadiantNerd",
-	"CreatedByURL": "http://www.radiantnerd.com",
-	"DocsURL": "",
+	"CreatedByURL": "https://radiantnerd.com",
+	"DocsURL": "https://radiantnerd.com",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://radiantnerd.com",
 	"EngineVersion": "5.5.0",
 	"CanContainContent": true,
 	"Installed": true,
@@ -49,5 +49,7 @@
 			"Name": "PoseSearch",
 			"Enabled": true
 		}
-	]
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
 }
