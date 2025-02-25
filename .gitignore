@@ -44,7 +44,7 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
-Plugins/*/SourceAssets
+Plugins/**/SourceAssets/*
 
 # Binary Files
 Binaries/*
